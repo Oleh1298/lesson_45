@@ -85,3 +85,20 @@ line-height: 22.1px;
 background-color: #96DBC6;
 padding: 10px 20px;
 }
+
+/* cartoon4-gupka_bob*/
+
+.section-number4{
+font-size: 38px;
+line-height: 24px;
+border-radius:50%;
+background-color: #d3cd18;
+padding: 10px 20px;
+}
+
+.section-button4{
+font-size: 16px;
+line-height: 22.1px;
+background-color: #d3cd18;
+padding: 10px 20px;
+}
