@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 1280px;
+    width: 100%;
+    padding:0 64px;
+}
+body{
+      font-family: "Inter", sans-serif;
+    background-color: #E7DFD8;
+    font-weight: 400;
+}
+.picture img{
+    border-radius: 12px;
+    margin: 30px 0;
+}
+img{
+    width: 518px;
+    height: 500px;
+}
+
+.section-subtitle{
+font-size: 19px;
+line-height: 2em;
+}
+.section-title{
+font-size: 35px;
+line-height: 45.6px;
+letter-spacing: 1px;
+}
+.section-text{
+font-size: 14px;
+line-height: 22.1px;
+}
+
+/* cartoon1-miki-maus */
+
+.section-number1{
+font-size: 38px;
+line-height: 24px;
+border-radius:50%;
+background-color: #B99FEA;
+padding: 10px 20px;
+}
+
+.section-button1{
+font-size: 16px;
+line-height: 22.1px;
+background-color: #B99FEA;
+padding: 10px 20px;
+}
+
+/* cartoon2-koko */
+
+.section-number2{
+font-size: 38px;
+line-height: 24px;
+border-radius:50%;
+background-color: #EBA789;
+padding: 10px 20px;
+}
+
+.section-button2{
+font-size: 16px;
+line-height: 22.1px;
+background-color: #EBA789;
+padding: 10px 20px;
+}
+
+/* cartoon3-vayana*/
+
+.section-number3{
+font-size: 38px;
+line-height: 24px;
+border-radius:50%;
+background-color: #96DBC6;
+padding: 10px 20px;
+}
+
+.section-button3{
+font-size: 16px;
+line-height: 22.1px;
+background-color: #96DBC6;
+padding: 10px 20px;
+}
